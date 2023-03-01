@@ -9,3 +9,10 @@ console.log(friendsAge.slice(2));
 var friendsInState = [false, true, true, false];
 console.log(friendsInState.push(false));
 // the push() method adds more elements.
+
+// Index Positions.
+var numbers = [10, 12, 45, 68, 90];
+console.log(numbers[4]);
+// Terminal prints out 90 because in arrays the counting starts at 0 which makes the index position 4 [90].
+
+
